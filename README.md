@@ -1,4 +1,4 @@
-## PyTorch Code for 'E2-Train: Training State-of-the-art CNNs with Over 80% Less Energy'
+## PyTorch Code for 'E^2-Train: Training State-of-the-art CNNs with Over 80% Less Energy'
 
 ## Introduction
 
